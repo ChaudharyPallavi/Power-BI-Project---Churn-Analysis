@@ -5,7 +5,7 @@
 The Bank Customer Churn Analysis Dashboard provides insights into customer retention and churn patterns based on various factors such as age, tenure, geography, product usage, and credit score rating. The objective of this dashboard is to identify key trends and areas where the bank can improve customer retention strategies.
 
 ### Dashboard Overview
-![Alt Text]()
+![Alt Text](https://github.com/ChaudharyPallavi/Power-BI-Project---Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Analysis%20Dashboard.jpg)
 
 ### Key Metrics
 
